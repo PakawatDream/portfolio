@@ -1,4 +1,6 @@
-This data is from Kaggle compettition
+Titanic - Machine Learning from Disaster
+
+sorce:Kaggle
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
